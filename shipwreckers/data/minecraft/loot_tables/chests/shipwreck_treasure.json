@@ -10,6 +10,10 @@
 				},
 				{
 					"type": "minecraft:item",
+					"name": "minecraft:mycelium"
+				},
+				{
+					"type": "minecraft:item",
 					"name": "minecraft:mooshroom_spawn_egg"
 				},
 				{
