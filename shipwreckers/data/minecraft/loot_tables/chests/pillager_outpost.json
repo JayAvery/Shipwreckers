@@ -10,6 +10,30 @@
 				},
 				{
 					"type": "minecraft:item",
+					"name": "minecraft:ice",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 10.0,
+							"type": "minecraft:uniform"
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:snow_block",
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 10.0,
+							"type": "minecraft:uniform"
+						}
+					}]
+				},
+				{
+					"type": "minecraft:item",
 					"name": "minecraft:mycelium"
 				},
 				{
